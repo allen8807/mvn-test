@@ -13,8 +13,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- * @author bolu.zhao<bolu.zhao@fraudmetrix.cn>
+
  */
 public class HttpRequestTest {
     

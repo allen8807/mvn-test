@@ -10,7 +10,6 @@ package com.mycompany.mvn.test.biz.util;
  * @FileName WeChatApiResponseCode.java
  * @date 2014-11-4
  * @time 14:48:03
- * @author bolu.zhao<bolu.zhao@fraudmetrix.cn>
  * @author  其它作者姓名
  * @Description 模块描述
  * @version 1.00 9999/99/99 类创建者姓名

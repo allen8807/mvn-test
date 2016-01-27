@@ -10,7 +10,6 @@ package com.mycompany.mvn.test.dal.wechat;
  * @FileName WeChatTokenDO.java
  * @date 2014-11-4
  * @time 12:05:21
- * @author bolu.zhao<bolu.zhao@fraudmetrix.cn>
  * @author  其它作者姓名
  * @Description 模块描述
  * @version 1.00 9999/99/99 类创建者姓名

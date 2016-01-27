@@ -22,7 +22,6 @@ import java.util.Map;
  * @FileName HttpRequest.java
  * @date 2014-11-4
  * @time 11:21:08
- * @author bolu.zhao<bolu.zhao@fraudmetrix.cn>
  * @author  其它作者姓名
  * @Description http的请求
  * 代码参考 http://www.cnblogs.com/zhuawang/archive/2012/12/08/2809380.html

@@ -17,7 +17,6 @@ import org.slf4j.LoggerFactory;
  * @FileName DealString.java
  * @date 2014-11-4
  * @time 11:49:35
- * @author bolu.zhao<bolu.zhao@fraudmetrix.cn>
  * @author  其它作者姓名
  * @Description 模块描述
  * @version 1.00 9999/99/99 类创建者姓名
